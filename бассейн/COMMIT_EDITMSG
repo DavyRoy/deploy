@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .DS_Store
+#	modified:   Dockerfile
+#	new file:   terraform/.DS_Store
+#	new file:   terraform/.terraform.lock.hcl
+#	new file:   terraform/.terraform/providers/registry.terraform.io/hashicorp/helm/2.9.0/darwin_amd64/terraform-provider-helm_v2.9.0_x5
+#	new file:   terraform/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.18.1/darwin_amd64/terraform-provider-kubernetes_v2.18.1_x5
+#	new file:   terraform/.terraform/providers/registry.terraform.io/hashicorp/local/2.3.0/darwin_amd64/terraform-provider-local_v2.3.0_x5
+#	new file:   terraform/.terraform/providers/registry.terraform.io/selectel/selectel/3.9.1/darwin_amd64/CHANGELOG.md
+#	new file:   terraform/.terraform/providers/registry.terraform.io/selectel/selectel/3.9.1/darwin_amd64/LICENSE
+#	new file:   terraform/.terraform/providers/registry.terraform.io/selectel/selectel/3.9.1/darwin_amd64/README.md
+#	new file:   terraform/.terraform/providers/registry.terraform.io/selectel/selectel/3.9.1/darwin_amd64/terraform-provider-selectel_v3.9.1
+#	new file:   terraform/main.tf
+#
